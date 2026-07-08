@@ -1,6 +1,6 @@
 # OpenAlex Explorer
 
-An [OpenCode](https://github.com/opencode-ai/opencode) skill for automated literature review.
+An agent skill, LLM-powered automated literature review pipeline: search papers via OpenAlex, screen for relevance & quality, extract summaries, and write structured reviews.
 
 ## How It Works
 
@@ -14,6 +14,8 @@ The pipeline:
 4. **Structured Summaries** — Extracts key findings
 5. **Review Writing** — Topic clustering → parallel chapter writing → citation validation
 
+You can also just build a literature database without writing a summaries
+Note that this skill *DOESNOT* read the full paper, so it's only suitable for exploration, but this feature also make it token-efficient and fast
 ## Install
 Download this skill,then just tell your AI agent something like:
 
@@ -85,6 +87,8 @@ python3 manage.py export 0
 ├── src/                       ← Core modules
 └── output/                    ← Results (gitignored)
 ```
+Output
+## Output
 
 ## Requirements
 
