@@ -16,36 +16,6 @@ The pipeline:
 
 ## Quick Start
 
-### 1. Install dependencies
-
-```bash
-pip install -e .
-```
-
-### 2. Create config files in your project root
-
-**`llm_config.json`** — LLM provider (DeepSeek, OpenAI, Claude, Gemini, etc.):
-
-```json
-{"model": "deepseek/deepseek-chat", "api_key": "sk-...", "temperature": 0.3, "max_tokens": 4096}
-```
-
-**`openalex_config.json`** — OpenAlex (optional, but recommended for higher rate limits):
-
-```json
-{"mailto": "your-email@example.com", "api_key": "your-openalex-api-key"}
-```
-
-### 3. Register the skill
-
-Symbolically link the skill into your OpenCode skills directory, or copy it:
-
-```bash
-ln -s /path/to/openalex_explorer/SKILL.md ~/.config/opencode/skills/openalex-explorer/SKILL.md
-```
-
-### 4. Use it
-
 Just tell your AI agent something like:
 
 > *"I want to do a literature review on improving reasoning in LLMs, covering 2022-2026, at least 15 papers, in English."*
