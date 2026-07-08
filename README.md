@@ -14,13 +14,12 @@ The pipeline:
 4. **Structured Summaries** — Extracts key findings
 5. **Review Writing** — Topic clustering → parallel chapter writing → citation validation
 
-## Quick Start
+## Install
+Download this skill,then just tell your AI agent something like:
 
-Just tell your AI agent something like:
+> *"Read SKILL.md,Install this Skill"*
 
-> *"I want to do a literature review on improving reasoning in LLMs, covering 2022-2026, at least 15 papers, in English."*
-
-The agent will read the skill definition, ask you for any missing details, configure the JSON spec, and run the full pipeline automatically.
+The agent will read the skill definition, ask you for any missing details, configure the JSON spec,then you can use it.
 
 ## Manual CLI Usage (Optional)
 
