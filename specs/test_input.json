@@ -1,0 +1,18 @@
+{
+  "research_question": "大语言模型推理能力的改进方法综述",
+  "start_year": 2022,
+  "end_year": 2026,
+  "min_papers": 15,
+  "method_preference": "chain-of-thought, tree-of-thought",
+  "research_field": "natural language processing",
+  "initial_depth": 20,
+  "max_total_papers": 500,
+  "max_quality_papers": 30,
+  "relevance_workers": 20,
+  "quality_workers": 20,
+  "max_refine_rounds": 3,
+  "output_dir": "output",
+  "generate_review": true,
+  "language": "zh-hans",
+  "lang_instruction": "主要输出语言应当为简体中文。请使用简体中文回答。"
+}

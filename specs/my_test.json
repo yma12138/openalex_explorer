@@ -1,0 +1,18 @@
+{
+  "research_question": "A Survey on the Current State of Smart Grid Development",
+  "start_year": 2020,
+  "end_year": 2026,
+  "min_papers": 15,
+  "method_preference": "",
+  "research_field": "",
+  "initial_depth": 20,
+  "max_total_papers": 100,
+  "max_quality_papers": 20,
+  "relevance_workers": 20,
+  "quality_workers": 20,
+  "max_refine_rounds": 3,
+  "output_dir": "output",
+  "generate_review": true,
+  "language": "en",
+  "lang_instruction": "The primary output language should be English. Please respond in English."
+}

@@ -1,0 +1,16 @@
+{
+  "research_question": "重制供应链整合与联盟统一管理",
+  "start_year": 2022,
+  "end_year": 2026,
+  "min_papers": 15,
+  "method_preference": "supply chain integration, alliance management, remanufacturing, unified management, 再制造, 供应链整合",
+  "research_field": "supply chain management, operations research, business, industrial engineering",
+  "initial_depth": 20,
+  "max_total_papers": 300,
+  "max_quality_papers": 30,
+  "relevance_workers": 10,
+  "quality_workers": 10,
+  "max_refine_rounds": 2,
+  "language": "zh-hans",
+  "lang_instruction": "主要输出语言应当为简体中文。请使用简体中文回答。"
+}

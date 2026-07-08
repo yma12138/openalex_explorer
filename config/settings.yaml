@@ -1,0 +1,10 @@
+# 全局配置 — 非敏感设置
+# LLM 配置已移至 llm_config.json
+pipeline:
+  min_papers: 15
+  max_fulltext_papers: 20
+  time_range_default: "2020-2025"
+
+output:
+  format: markdown
+  language: zh-CN

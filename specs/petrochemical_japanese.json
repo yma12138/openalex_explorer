@@ -1,0 +1,16 @@
+{
+  "research_question": "石油化学産業の最近の発展動向：脱炭素化、デジタル化、サーキュラーエコノミー",
+  "start_year": 2022,
+  "end_year": 2026,
+  "min_papers": 20,
+  "method_preference": "",
+  "research_field": "petrochemical engineering, chemical industry, industrial development",
+  "initial_depth": 25,
+  "max_total_papers": 400,
+  "max_quality_papers": 35,
+  "relevance_workers": 20,
+  "quality_workers": 20,
+  "max_refine_rounds": 3,
+  "language": "en",
+  "lang_instruction": "All output must be in Japanese. 全ての出力は日本語で記述してください。論文のタイトル・著者情報なども日本語で説明してください。"
+}

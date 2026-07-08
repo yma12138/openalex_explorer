@@ -1,0 +1,15 @@
+{
+  "research_question": "Applications of Social Network Analysis: A Comprehensive Review",
+  "start_year": 2018,
+  "end_year": 2026,
+  "min_papers": 20,
+  "research_field": "",
+  "initial_depth": 25,
+  "max_total_papers": 300,
+  "max_quality_papers": 40,
+  "relevance_workers": 10,
+  "quality_workers": 10,
+  "max_refine_rounds": 3,
+  "language": "en",
+  "lang_instruction": ""
+}

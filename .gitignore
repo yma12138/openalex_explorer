@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+config/secrets.yaml
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+output/
+llm_config.json
+openalex_config.json

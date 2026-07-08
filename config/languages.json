@@ -1,0 +1,16 @@
+{
+  "default": "zh-hans",
+  "languages": [
+    {
+      "code": "zh-hans",
+      "name": "简体中文",
+      "suffix": "_zh-hans"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "suffix": "_en",
+      "fallback": "zh-hans"
+    }
+  ]
+}

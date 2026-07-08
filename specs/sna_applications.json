@@ -1,0 +1,15 @@
+{
+  "research_question": "社会网络分析的应用研究综述",
+  "start_year": 2018,
+  "end_year": 2026,
+  "min_papers": 20,
+  "research_field": "",
+  "initial_depth": 25,
+  "max_total_papers": 300,
+  "max_quality_papers": 40,
+  "relevance_workers": 10,
+  "quality_workers": 10,
+  "max_refine_rounds": 3,
+  "language": "zh-hans",
+  "lang_instruction": "主要输出语言应当为简体中文。请使用简体中文回答。"
+}
